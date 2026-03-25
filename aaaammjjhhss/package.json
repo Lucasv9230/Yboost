@@ -1,0 +1,20 @@
+{
+  "name": "202603241850",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch --env-file=.env index"
+  },
+  "keywords": [],
+  "author": "(c) by WhoAm'I",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.14"
+  }
+}
